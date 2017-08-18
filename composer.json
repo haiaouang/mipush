@@ -1,5 +1,5 @@
 {
-    "name": "haoaouang/mipush",
+    "name": "haiaouang/mipush",
     "description": "The Hht mipush package.",
     "license": "MIT",
     "homepage": "https://github.com/haiaouang/mipush",
@@ -16,8 +16,8 @@
     ],
     "require": {
         "php": ">=5.5.9",
-	"haoaouang/support": "^1.0.0",
-	"haoaouang/mipush": "^1.0.0"
+	"haiaouang/support": "^1.0.0",
+	"haiaouang/mipush": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
