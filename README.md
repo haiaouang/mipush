@@ -85,10 +85,10 @@ return [
 创建message(消息发送只能发给message对应的端)
 
 ```php
-    //安卓message -- 具体参数配置清查看小米推送文档
+    //苹果message -- 具体参数配置清查看小米推送文档
     $message = new \Hht\MiPush\Builder\IOSBuilder();
     
-    //苹果message -- 具体参数配置清查看小米推送文档
+    //安卓message -- 具体参数配置清查看小米推送文档
     $message = new \Hht\MiPush\Builder\Builder();
 ```
 
